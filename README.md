@@ -8,13 +8,11 @@ The main function returns a pandas dataframe contains earning information
 The package is currently not availble from PyPI, please download the folder directly and put it in the packages folder on your computer.
 
 # Example
-
+```
 import earning
-
 data = earning.earning(20160315,20160515)   
-
 date.output()            
-
+```
 # Other Feathers
 yahoo_date()  
 nasdaq_date()
