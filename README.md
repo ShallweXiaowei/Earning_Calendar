@@ -11,7 +11,7 @@ The package is currently not availble from PyPI, please download the folder dire
 ```
 import earning
 data = earning.earning(20160315,20160515)   
-date.output()            
+data.output()            
 ```
 # Other Feathers
 yahoo_date()  
