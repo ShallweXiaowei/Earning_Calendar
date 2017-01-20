@@ -11,9 +11,9 @@ The package is currently not availble from PyPI, please download the folder dire
 
 import earning
 
-data = earning.earning(20160315,20160515)   # the start date and ending date are mandatory
+data = earning.earning(20160315,20160515)   
 
-date.output()             #This function returns the pandas dataframe
+date.output()            
 
 # Other Feathers
 yahoo_date()  
