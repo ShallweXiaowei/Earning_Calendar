@@ -15,8 +15,11 @@ data.output()
 ```
 # Other Feathers
 yahoo_date()  
+
 nasdaq_date()
+
 yahoo_table()
+
 nasdaq_table()
 
 
