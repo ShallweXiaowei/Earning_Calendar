@@ -9,8 +9,8 @@ The package is currently not availble from PyPI, please download the folder dire
 
 # Example
 ```
-import earning
-data = earning.earning(20160315,20160515)   
+from Earning_Calendar import earning
+data = earning(20160315,20160515)   
 data.output()            
 ```
 # Other Feathers
