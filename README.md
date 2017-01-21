@@ -9,7 +9,7 @@ The package is currently not availble from PyPI, please download the folder dire
 
 # Example
 ```
-from Earning_Calendar import earning
+from earning import earning
 data = earning(20160315,20160515)   
 data.output()            
 ```
