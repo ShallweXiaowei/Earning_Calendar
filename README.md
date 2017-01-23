@@ -1,4 +1,4 @@
-# Earning_Calendar
+# earning
 This module is used to scarp earning information from both yahoo and nasdaq
 
 The main function returns a pandas dataframe contains earning information
