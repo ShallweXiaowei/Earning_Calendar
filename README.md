@@ -5,7 +5,9 @@ The main function returns a pandas dataframe contains earning information
 
 
 # Install
-The package is currently not availble from PyPI, please download the folder directly and put it in the packages folder on your computer.
+```
+pip install earning
+```
 
 # Example
 ```
